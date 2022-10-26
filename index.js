@@ -21,6 +21,9 @@ app.get("/course/:id", (req, res) => {
   console.log(id);
   res.send(selectedCourse);
 });
+app.get("/course", (req, res) => {
+  res.send(course);
+});
 
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;
