@@ -7,7 +7,10 @@
       "title": "HTML",
       
       "image_url": "https://media.istockphoto.com/photos/on-blackboard-picture-id471531189?s=612x612",
-      "details": "Hypertext Markup Language, or HTML, is a programming language used to describe the structure of information on a webpage. Together, HTML, CSS, and JavaScript make up the essential building blocks of websites worldwide, with CSS controlling a page's appearance and JavaScript programming its functionality."
+      "details": "Hypertext Markup Language, or HTML, is a programming language used to describe the structure of information on a webpage. Together, HTML, CSS, and JavaScript make up the essential building blocks of websites worldwide, with CSS controlling a page's appearance and JavaScript programming its functionality.",
+      "rating":"5",
+      "access":"7.5k",
+      "price":"235"
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -17,7 +20,10 @@
       "title": "CSS",
      
       "image_url": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGh0bWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "details": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language."
+      "details": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.",
+      "rating":"4.5",
+      "access":"6.9k",
+      "price":"295"
     },
 
     {
@@ -28,7 +34,10 @@
       "title": "Java Script",
       
       "image_url": "https://media.istockphoto.com/photos/javascript-code-computer-language-programming-internet-text-editor-picture-id1156837650?s=612x612",
-      "details": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites"
+      "details": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites",
+      "rating":"4.6",
+      "access":"2.5k",
+      "price":"280"
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -38,7 +47,10 @@
       "title": "React",
       
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript"
+      "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript",
+      "rating":"3.3",
+      "access":"3k",
+      "price":"350"
     },
 
     {
@@ -49,7 +61,10 @@
       "title": "Python",
       
       "image_url": "https://media.istockphoto.com/photos/top-view-of-laptop-with-text-python-picture-id1354397311?s=612x612",
-      "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances."
+      "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
+      "rating":"4.2",
+      "access":"8k",
+      "price":"300"
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -59,6 +74,9 @@
       "title": "Angular JS",
       
       "image_url": "https://media.istockphoto.com/photos/word-angular-on-paper-and-laptop-picture-id1320639759?s=612x612",
-      "details": "AngularJS is an open-source front-end web application framework to develop single page applications. It is solely based on the all-rounder programming language- JavaScript. That is the reason it has the name that includes JS and it is also written as Angular."
+      "details": "AngularJS is an open-source front-end web application framework to develop single page applications. It is solely based on the all-rounder programming language- JavaScript. That is the reason it has the name that includes JS and it is also written as Angular.",
+      "rating":"4.3",
+      "access":"3k",
+      "price":"105"
     }
 ]
